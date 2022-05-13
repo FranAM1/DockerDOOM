@@ -32,7 +32,7 @@ PORT=5900
 PORT=5900
 ```
 
-Para la conexión he utilizado el programa *Remmina* el cual soporta conexiones **VNC**.<br>
+Para la conexión he utilizado el programa *Remmina*, el cual soporta conexiones **VNC**.<br>
 Como ponia en el resultado de la consola, utiliza el puerto **5900**
 ![imagen](https://user-images.githubusercontent.com/91600940/168309717-d3c4742f-f8c9-40cd-8a6a-c833ae57baf0.png) <br>
 La contraseña a utilizar es ```1234``` <br>
