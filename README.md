@@ -40,7 +40,7 @@ La contraseña a utilizar es ```1234``` <br>
 
 Una vez dentro del juego, se puede ver estan los contenedores como enemigos. <br>
 ![imagen](https://user-images.githubusercontent.com/91600940/168313711-a8d2a71f-293e-449e-9125-2712984cefd1.png) <br>
-Después de una dura batalla, una vez que los enemigos han sido eleminados, también se eliminan los contenedores correspondientes junto a ellos. <br>
+Después de una dura batalla, una vez que los enemigos han sido completamente eliminados, también se eliminan los contenedores correspondientes junto a ellos. <br>
 ![imagen](https://user-images.githubusercontent.com/91600940/168314683-c9983399-4d1a-42ce-ac1b-e438458ac4e1.png)
 
 ![imagen](https://user-images.githubusercontent.com/91600940/168314254-13ec0dc5-b473-4541-93b5-579858e1b874.png)
